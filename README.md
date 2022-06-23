@@ -1,6 +1,6 @@
  # Sobre mim
 - 
-- 👋 Oi, eu sou a Maria Fernanda Harumi Miyazaki (@miyyazaki)
+- 👋 Oi, eu sou a **Maria Fernanda Harumi Miyazaki** (@miyyazaki)
 - 👀 Estou interessada em desenvolver as atividades fornecidas pela plataforma Alura
 - 🌱 Atualmente estou aprendendo a programar a linguagem de java script e scrath
 - 💞️ Procuro ganhar conhecimentos relacionados a programação, para ter um bom desempenho em relação as notas 
